@@ -65,11 +65,11 @@ td:last-of-type {
   border-right: none;
 }
 
-/*tbody tr:hover{
-  background-color:rgba(0,0,255,0.2);
+tbody tr:hover {
+  background-color: rgba(0, 0, 255, 0.2);
 }
 
-
+/*
 
 .containers {
   width: 520px;
