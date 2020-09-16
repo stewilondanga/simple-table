@@ -32,10 +32,11 @@ body {
   color: #333
 }
 
-/*.title:first-letter{
-  color:rgba(0,0,255,0.5)
+.title:first-letter {
+  color: rgba(0, 0, 255, 0.5)
 }
-table {
+
+/*table {
     width: 70%;
     border-collapse: collapse;
 }
