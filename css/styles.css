@@ -56,11 +56,12 @@ thead tr {
   background-color: #222;
 }
 
-/* td{
-transition:0.1s linear transform, 0s linear background;
-    border-right: 1px solid rgba(0,0,0,0.5);
-  }
-  td:last-of-type {
+td {
+  transition: 0.1s linear transform, 0s linear background;
+  border-right: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+/*td:last-of-type {
     border-right:none;
 }
 tbody tr:hover{
