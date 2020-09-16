@@ -41,12 +41,12 @@ table {
   border-collapse: collapse;
 }
 
-/*td {
-    padding: 20px;
-    font-size: 16px;
+td {
+  padding: 20px;
+  font-size: 16px;
 }
 
-thead td {
+/*thead td {
   border-bottom: 1px solid rgba(0,0,0,0.5);
   text-transform:uppercase;
   color:#eee;
