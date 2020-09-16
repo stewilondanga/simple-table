@@ -36,11 +36,12 @@ body {
   color: rgba(0, 0, 255, 0.5)
 }
 
-/*table {
-    width: 70%;
-    border-collapse: collapse;
+table {
+  width: 70%;
+  border-collapse: collapse;
 }
-td {
+
+/*td {
     padding: 20px;
     font-size: 16px;
 }
