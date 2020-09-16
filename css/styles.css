@@ -61,10 +61,11 @@ td {
   border-right: 1px solid rgba(0, 0, 0, 0.5);
 }
 
-/*td:last-of-type {
-    border-right:none;
+td:last-of-type {
+  border-right: none;
 }
-tbody tr:hover{
+
+/*tbody tr:hover{
   background-color:rgba(0,0,255,0.2);
 }
 
